@@ -5,7 +5,7 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/4c8be06f11872994f2c7/maintainability)](https://codeclimate.com/github/jfiander/silent-progress-bar/maintainability)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/4c8be06f11872994f2c7/test_coverage)](https://codeclimate.com/github/jfiander/silent-progress-bar/test_coverage)
 
-A simple exponential backoff retry wrapper.
+A simple progress bar wrapper that suppresses ActiveRecord logging.
 
 ## Installation
 
