@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
   s.name          = 'silent_progress_bar'
-  s.version       = '0.0.1'
-  s.date          = '2018-10-26'
+  s.version       = '0.0.2'
+  s.date          = '2018-11-05'
   s.summary       = 'Silenced Progress Bar'
   s.description   = 'A progress bar that suppresses ActiveRecord logging.'
   s.homepage      = 'http://rubygems.org/gems/silent_progress_bar'
