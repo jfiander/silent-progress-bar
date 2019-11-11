@@ -17,6 +17,8 @@ Gem::Specification.new do |s|
   s.add_runtime_dependency 'rails'
   s.add_runtime_dependency 'ruby-progressbar'
 
+  s.add_runtime_dependency 'nokogiri', '>= 1.10.4'
+
   s.add_development_dependency 'rake',      '~> 12.2', '>= 12.2.1'
   s.add_development_dependency 'rspec',     '~> 3.7',  '>= 3.7.0'
   s.add_development_dependency 'simplecov', '~> 0.15', '>= 0.15.1'
