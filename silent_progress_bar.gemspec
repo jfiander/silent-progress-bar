@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
   s.name          = 'silent_progress_bar'
-  s.version       = '0.0.2'
-  s.date          = '2018-11-05'
+  s.version       = '0.0.3'
+  s.date          = '2021-02-01'
   s.summary       = 'Silenced Progress Bar'
   s.description   = 'A progress bar that suppresses ActiveRecord logging.'
   s.homepage      = 'http://rubygems.org/gems/silent_progress_bar'
@@ -17,7 +17,7 @@ Gem::Specification.new do |s|
   s.add_runtime_dependency 'rails'
   s.add_runtime_dependency 'ruby-progressbar'
 
-  s.add_runtime_dependency 'nokogiri', '>= 1.10.4'
+  s.add_runtime_dependency 'nokogiri', '>= 1.11.1'
 
   s.add_development_dependency 'rake',      '~> 12.2', '>= 12.2.1'
   s.add_development_dependency 'rspec',     '~> 3.7',  '>= 3.7.0'
