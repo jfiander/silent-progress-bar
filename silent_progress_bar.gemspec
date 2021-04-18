@@ -14,7 +14,7 @@ Gem::Specification.new do |s|
 
   s.required_ruby_version = '~> 2.2'
 
-  s.add_runtime_dependency 'rails'
+  s.add_runtime_dependency 'rails', '~> 6.1.3'
   s.add_runtime_dependency 'ruby-progressbar'
 
   s.add_runtime_dependency 'nokogiri', '>= 1.11.1'
